@@ -1,0 +1,5 @@
+quarkus:
+  application:
+    name: FHJ Showcase
+  http:
+    port: 18080
